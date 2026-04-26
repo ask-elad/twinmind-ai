@@ -10,7 +10,7 @@ Built as a submission for the TwinMind Full-Stack / Prompt Engineering assignmen
 
 | Service | URL |
 |---------|-----|
-| Frontend | https://twinmind-ai.vercel.app |
+| Frontend | https://twinmind-ai-client-u68m-git-main-ask-elads-projects.vercel.app/ |
 | Backend  | https://twinmind-server-production.up.railway.app/health |
 
 > Requires a [Groq API key](https://console.groq.com) — paste it in the **Customize** panel on first load.
