@@ -11,7 +11,7 @@ Built as a submission for the TwinMind Full-Stack / Prompt Engineering assignmen
 | Service | URL |
 |---------|-----|
 | Frontend | https://twinmind-ai-client-u68m-git-main-ask-elads-projects.vercel.app/ |
-| Backend  | https://twinmind-server-production.up.railway.app/health |
+| Backend  | https://twinmind-ydug.onrender.com/health |
 
 > Requires a [Groq API key](https://console.groq.com) — paste it in the **Customize** panel on first load.
 
@@ -28,7 +28,7 @@ Built as a submission for the TwinMind Full-Stack / Prompt Engineering assignmen
 | Audio capture | Browser `MediaRecorder` → `audio/webm;codecs=opus` |
 | Transport | WebSocket (bi-directional, auto-reconnect) |
 | Frontend hosting | Vercel |
-| Backend hosting | Railway |
+| Backend hosting | Render |
 
 ---
 
