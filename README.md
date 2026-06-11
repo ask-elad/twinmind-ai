@@ -255,7 +255,7 @@ cd client && npm run dev
 
 ## Deployment
 
-### Backend — Railway
+### Backend — Render
 
 ```bash
 cd server
@@ -305,7 +305,7 @@ cd client
 
 | Variable | Location | Description |
 |----------|----------|-------------|
-| `PORT` | Server (Railway) | HTTP/WS server port (default: 3001) |
+| `PORT` | Server (Render) | HTTP/WS server port (default: 3001) |
 | `VITE_WS_URL` | Client (Vercel) | WebSocket backend URL, e.g. `wss://your-app.up.railway.app/ws` |
 
 The Groq API key is **not** an environment variable — it is entered by the user at runtime and stored in their browser's `localStorage`.
